@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello world from Grapheneos")
+	fmt.Printf("Hello %s from Grapheneos", "Anon")
 }
